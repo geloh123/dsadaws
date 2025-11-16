@@ -1,20 +1,17 @@
 const titles = [
-    "g",
-    "ge",
-    "gel",
-    "gelo",
-    "geloh",
-    "geloh1",
-    "geloh12",
-    "geloh123",
-    "geloh123",
-    "geloh12",
-    "geloh1",
-    "geloh",
-    "gelo",
-    "gel",
-    "ge",
-    "g"
+"p",
+"pt",
+"pto",
+"ptos",
+"ptosz",
+"ptosze",
+"ptoszek",
+"ptosze",
+"ptosz",
+"ptos",
+"pto",
+"pt",
+"p"
 ];
 
 let index = 0;
